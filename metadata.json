@@ -1,7 +1,5 @@
 {
   "name": "AI Mark Vanish",
   "description": "A high-performance tool to remove AI identifiers and watermarks from fixed regions of images using Gemini's advanced image editing capabilities. Restore your images to their original glory with pixel-perfect inpainting.",
-  "requestFramePermissions": [
-    "camera"
-  ]
+  "requestFramePermissions": []
 }
